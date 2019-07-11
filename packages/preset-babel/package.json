@@ -43,6 +43,6 @@
     "slash-to-regexp": "^0.0.0"
   },
   "peerDependencies": {
-    "core-js": ">=2.6.9"
+    "core-js": ">=3.1.4"
   }
 }
